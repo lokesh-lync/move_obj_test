@@ -4,7 +4,6 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-my_addr = "0x5dc180a74ae4aee245ca019dccf3c5d1ac24ef5bd8c8f9ecd1660c1a25832099"
 
 [dev-addresses]
 
